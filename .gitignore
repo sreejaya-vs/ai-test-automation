@@ -1,0 +1,87 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Build and release files
+dist/
+build/
+*.egg-info/
+*.egg
+*.manifest
+*.spec
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Appium and mobile testing artifacts
+*.apk
+*.ipa
+*.app
+*.dSYM
+/reports/
+/output/
+/screenshots/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Test artifacts
+.pytest_cache/
+/allure-results/
+/allure-report/
+
+# Node.js dependencies (if using Appium through npm)
+node_modules/
+npm-debug.log*
+
+# macOS
+._*
+
+# Windows
+[Tt]humbs.db
+Desktop.ini
+
+# Visual Studio Code
+.history/
+*.code-workspace
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Project-specific ignores
+/apk_ipa_files/*.apk
+/apk_ipa_files/*.ipa
+!/apk_ipa_files/.gitkeep

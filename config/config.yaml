@@ -1,0 +1,9 @@
+llm_model: "gpt-4"
+figma:
+  token: ${FIGMA_TOKEN}
+appium:
+  platformName: "Android"
+  automationName: "UiAutomator2"
+  deviceName: "Pixel_5"
+  server: "http://localhost:4723"
+self_healing: True
