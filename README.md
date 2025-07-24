@@ -119,6 +119,6 @@ Project Maintainer - Sreejaya V S
 Project Link: (https://github.com/sreejaya-vs/ai-test-automation.git)
 
 ## 🙏 Acknowledgments
-OpenAI for their amazing language models
-Appium community for mobile test automation
-Figma for design collaboration tools
+1. OpenAI for their amazing language models
+2. Appium community for mobile test automation
+3. Figma for design collaboration tools
